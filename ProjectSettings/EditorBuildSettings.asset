@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/punto7.unity
+    guid: 4de86106e8d0a504f96cfb76ff4c6f1c
+  - enabled: 1
+    path: Assets/puntoInicial.unity
+    guid: 0c5f7617c2f9d6043bb608eec1b50c34
+  - enabled: 1
+    path: Assets/punto2.unity
+    guid: a050da7c68d19664c8bf1c29d9fdd7a1
+  - enabled: 1
+    path: Assets/punto3.unity
+    guid: 31ccacb88f9a93d469854150d34bd97e
+  - enabled: 1
+    path: Assets/punto4.unity
+    guid: f54fed9b4a781be4098207d3222c39a4
+  - enabled: 1
+    path: Assets/punto5.unity
+    guid: 6439331526dde854a82a84346cc4f268
+  - enabled: 1
+    path: Assets/punto6.unity
+    guid: 360cf110c80356b4f9116e09ea9c7dd9
+  - enabled: 1
+    path: Assets/punto8.unity
+    guid: f5c36213150aa3445acebf37c42dc46d
+  - enabled: 1
+    path: Assets/punto9.unity
+    guid: a89c1c8a15f209b42a52ae7266115c78
+  - enabled: 1
+    path: Assets/punto10.unity
+    guid: d87189a2740a61646a1d3dfedf8ce8ba
+  - enabled: 1
+    path: Assets/punto11.unity
+    guid: bfea7423280ae4542b4f5f42f98e150c
+  - enabled: 1
+    path: Assets/punto12.unity
+    guid: a737fb2ccaf7834488743935c383a62f
+  - enabled: 1
+    path: Assets/punto13.unity
+    guid: 10323d1c2d87dcf4e90ea1f34fa39c45
+  - enabled: 1
+    path: Assets/punto14.unity
+    guid: 0651de70f17f6f4448a449c54e80d9c3
+  - enabled: 1
+    path: Assets/punto15.unity
+    guid: 6af611cee3a18fa4fb47325612378a81
+  - enabled: 1
+    path: Assets/punto16.unity
+    guid: 92049a7767a9e7c4fbe7dc76d71e46b3
+  - enabled: 1
+    path: Assets/punto17.unity
+    guid: 57a135467131f474db7863c93d9292ca
+  - enabled: 1
+    path: Assets/punto18.unity
+    guid: 7b08b76ccae07a0429587b7571430b62
+  - enabled: 1
+    path: Assets/punto19.unity
+    guid: 8435031901b82904dbedc4f117cb06c3
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

@@ -1,0 +1,20 @@
+{
+    "name": "com.indretsvr.virtualtour",
+    "version": "1.0.0",
+    "displayName": "IndretsVRVirtualTour",
+    "description": "Create amazing virtual tours in Unity without any coding, just your 360º images or videos and a few clicks!",
+    "unity": "2019.4",
+    "unityRelease": "40f1",
+    "documentationUrl": "https://docs.indretsvr.com/books",
+    "licensesUrl": "https://github.com/IndretsVR/IndretsVRVirtualTour/blob/main/LICENSE",
+    "keywords": [
+        "virtual reality",
+        "virtual tour",
+        "real state"
+    ],
+    "author": {
+        "name": "IndretsVR",
+        "email": "dev@indretsvr.com",
+        "url": "https://indretsvr.com"
+    }
+  }
