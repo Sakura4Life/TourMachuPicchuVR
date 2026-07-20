@@ -20,24 +20,7 @@ Brindar una experiencia inmersiva que facilite el conocimiento y la exploración
 
 - Unity 6
 - IndretsVR Virtual Tour
-- OpenXR
 - C#
-
-## Estructura del proyecto
-
-```
-Assets/
-├── Scenes/
-├── Scripts/
-├── Images360/
-├── Prefabs/
-├── UI/
-├── Materials/
-└── Resources/
-
-Packages/
-ProjectSettings/
-```
 
 ## Requisitos
 
@@ -50,17 +33,11 @@ ProjectSettings/
 ## Ejecución
 
 1. Abrir el proyecto con Unity 6.
-2. Ejecutar la escena **MainMenu**.
-3. Seleccionar **Iniciar Recorrido**.
+2. Ejecutar la escena **punto7**.
+3. Elegir cualquiera círculo de los hotspot.
 4. Navegar entre los diferentes panoramas utilizando los hotspots.
 5. Consultar la información histórica mediante los paneles informativos.
 
 ## Estado del proyecto
 
 Versión final desarrollada como proyecto académico. Todas las funcionalidades planificadas fueron implementadas y validadas mediante pruebas funcionales.
-
-## Autor
-
-George Solano
-
-Proyecto desarrollado para el curso de Realidad Virtual / XR.
